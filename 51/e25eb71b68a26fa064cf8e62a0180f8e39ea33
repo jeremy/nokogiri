@@ -1,0 +1,19 @@
+ext/nokogiri/xslt_stylesheet.c
+  s_fa4a9a353f581a::t_ea876049d22ad3 21-36,42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "51e25eb71b68a26fa064cf8e62a0180f8e39ea33",
+  "prompts": {},
+  "sessions": {
+    "s_fa4a9a353f581a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1ff70c75-321d-4874-913c-0fc25b3d811b",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+gumbo-parser/test/parser.cc
+  s_fbdd46ddda99c1::t_42aa537209c43a 2340-2356
+CHANGELOG.md
+  s_fbdd46ddda99c1::t_576d8f8654a257 32
+gumbo-parser/src/parser.c
+  s_fbdd46ddda99c1::t_6c8aa7062a7b09 1028-1042,1045,1049-1050
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "d718e78b9ae48d69bb3821050a14d2f036c89bb5",
+  "prompts": {},
+  "sessions": {
+    "s_fbdd46ddda99c1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee18d3b4-394a-4197-ada3-15fcda13f41d",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Jeremy Daer <jeremydaer@gmail.com>"
+    }
+  }
+}
